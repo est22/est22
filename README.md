@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fest22%2Fhit-counter&count_bg=%236E7BF3&title_bg=%23FD9BC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+[![Lia's github stats](https://github-readme-stats.vercel.app/api?username=est22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit/)
