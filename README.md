@@ -38,5 +38,9 @@ Here are some ideas to get you started:
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit/)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/pfuit)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
+
 
 </p>
