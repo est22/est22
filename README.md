@@ -16,34 +16,43 @@ Here are some ideas to get you started:
 -->
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fest22%2Fhit-counter&count_bg=%236E7BF3&title_bg=%23FD9BC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   <a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anlia.seoul@gmail.com)](mailto:anlia.seoul@gmail.com)   [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
+<a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anlia.seoul@gmail.com)](mailto:anlia.seoul@gmail.com)   [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
 
 </div>
 
 ### Hi there 👋
 
----
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=est22&show_icons=true&hide_border=true">
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=est22&layout=compact)](https://github.com/est22/github-readme-stats)    
+##### Languages I use
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+[![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+<br>
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-222222?style=flat&logo=adobe-photoshop&logoColor=26C9FF)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-222222?style=flat&logo=adobe-illustrator&logoColor=FC8F30)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-222222?style=flat&logo=adobe-XD&logoColor=fe61f6)
+![Figma](http://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=lavender)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=est22&layout=compact)](https://github.com/est22/github-readme-stats)    
 
 
 
