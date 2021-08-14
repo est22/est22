@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fest22%2Fhit-counter&count_bg=%236E7BF3&title_bg=%23FD9BC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   <a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank" align="right"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fest22%2Fhit-counter&count_bg=%236E7BF3&title_bg=%23FD9BC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   <a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank" align="right"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>     [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -38,9 +39,8 @@ Here are some ideas to get you started:
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit/)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/pfuit)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
 
 
 </p>
