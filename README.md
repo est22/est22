@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Figma](http://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=lavender)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=est22&layout=compact)](https://github.com/est22/github-readme-stats)    
+
 
 
 
