@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+
 
 ##### Some of the technologies I have worked with
 
