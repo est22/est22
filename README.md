@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="right">
   
-<a href="https://www.linkedin.com/in/lia-an-78b620173/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anlia.seoul@gmail.com)](mailto:anlia.seoul@gmail.com)   [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pfuit)](https://solved.ac/pfuit)
+<a href="https://www.linkedin.com/in/lia-an-78b620173](https://www.linkedin.com/in/anliaseoul/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anlia.seoul@gmail.com)](mailto:anlia.seoul@gmail.com)  
 
 </div>
 
